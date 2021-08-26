@@ -3,3 +3,8 @@ Class employee
 Public void method()
 //code
 }
+class employee{
+
+public void method()
+//code
+}
